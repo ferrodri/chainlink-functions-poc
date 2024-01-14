@@ -1,28 +1,7 @@
-## Install dependencies
+## Tutorial
 
-```sh
-forge install
-```
-## Development
+https://docs.chain.link/chainlink-functions/getting-started
 
-```sh
-forge build
-```
+## Deployed contract
 
-### Run tests
-
-```sh
-forge test
-```
-
-## Deploy to Mumbai
-
-```sh
-make deploy-mumbai contract=MockERC20
-```
-
-## Deploy to Polygon
-
-```sh
-make deploy-polygon contract=MockERC20
-```
+https://mumbai.polygonscan.com/address/0x90a5f8094e43172f5dcb4c730a12cdf87b27caf2
